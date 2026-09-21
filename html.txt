@@ -1,2 +1,3 @@
 İndex ve html dosyası oluşturuldu
 html lang tr olarak çevirildi
+Başlık eklendi
